@@ -31,3 +31,6 @@ You should send the automated testing repository link and documentation for luiz
 - **BONUS:** Add a security testing report. 
 ​
 HAVE FUN :)
+
+Attention!
+#### You have 5 days to send the challenge
