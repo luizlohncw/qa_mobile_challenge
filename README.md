@@ -19,7 +19,6 @@ For this exercise, we advise you to:
 - Create a document with a bug or improvements report
 
 ### 2.3. Create an automated testing
-- Use a Flutter App Mobile
 - Use git and split your commits;
 - You should user Appium and Ruby language
 - Automated 2 scenarios of the test plan
@@ -29,6 +28,7 @@ You should send the automated testing repository link and documentation for luiz
 
 - **BONUS:** Add a static code analyzer, code formatting, or code quality monitor tool, example: https://github.com/rubocop-hq/rubocop
 - **BONUS:** Add a security testing report. 
+- **BONUS:** Use a Flutter App Mobile
 ​
 HAVE FUN :)
 
