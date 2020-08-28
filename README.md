@@ -14,7 +14,7 @@ For this exercise, we advise you to:
 2. Create a file on test repository to:
     1. Testing plan
     2. A description of what part you would manually test or automate and why
-3. Should use Gherkin language to create testing cases (English);
+3. Should use Gherkin language to create testing cases (English)  
 OBS.: You can create a documents as you need.
 ​
 ### 2.2. Create a bug/improvements report
