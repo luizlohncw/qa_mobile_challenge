@@ -26,7 +26,7 @@ OBS.: You can create a documents as you need.
 1. Use the same git repository to create the automation testing
 2. You should user Appium and Ruby language
 3. Automated 2 scenarios of the test plan
-4. Use the Infinitepay App available on this repository
+4. You can choose the Mobile App to use on Automation Testing
 ​
 ## 3. Share
 You should send the git repository link to luiz.lohn@cloudwalk.io
